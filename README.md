@@ -20,7 +20,7 @@ Informe de instalación, sala tp
      • Entender de mejor manera como organizar nuestra sala y nuestros objetos computacionales.
      • diseñar un nuevo diseño de la sala mediante un diseño grafico.
 
-4.- El objetivo principal y unico es simplemente la remodelacion de la sala de programadores de una forma compacta y comoda para ellos.
+4.- El objetivo principal y unico es simplemente la remodelacion de la sala de programadores de una forma compacta y comoda para ellos, usando nuevos planos para la sala.
 
 
 5.- Al final de todo esto, se concluye con que se verifica que se a hablado del tema de una manera efectiva y organizada, dando a dar a conocer la importancia de cambiar la estructura y organizacion de nuestro entorno para lograr comoidad y mejor rendimiento.
